@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338431945525",
+    "project_id": "rdtask-e7b00",
+    "storage_bucket": "rdtask-e7b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338431945525:android:d543eede823796fe7ffa7c",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0fmYU2-H8DGxEFl1Kc5uZTsJNtq0GX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
